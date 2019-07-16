@@ -1,2 +1,2 @@
 # rlss2019
-Curated materials for RLSS2019 Lille
+Curated materials for different machine learning related summer schools.

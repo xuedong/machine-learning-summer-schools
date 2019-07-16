@@ -105,3 +105,11 @@ venv.bak/
 
 # MacOS
 .DS_Store
+
+# Large files
+Machine Learning Summer School 2019 (Stellenbosch, South Africa)/slides/Benjamin Rosman - Reinforcement Learning.pptx
+Machine Learning Summer School 2019 (Stellenbosch, South Africa)/slides/Bernhard Scholkopf - Causality.pptx
+Machine Learning Summer School 2019 (Stellenbosch, South Africa)/slides/Marco Cuturi - Optimal Transport.pdf
+Machine Learning Summer School 2019 (Stellenbosch, South Africa)/slides/David Blei - Variational Inference.pdf
+Machine Learning Summer School 2019 (Stellenbosch, South Africa)/slides/Luc de Raedt - Statistical Relational Learning.key
+Machine Learning Summer School 2019 (Stellenbosch, South Africa)/slides/Tanya Berger-Wolf - Networks.pptx

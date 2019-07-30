@@ -20,6 +20,7 @@
         8.  [Approximate Bayesian Computation](#org36b760c)
         9.  [Speech Processing](#org95fe76a)
         10. [ML in Computational Biology](#org7236865)
+        11. [Submodularity](#org964b5ee)
 
 
 <a id="org46bde8c"></a>
@@ -289,19 +290,35 @@ using
 
 ### Approximate Bayesian Computation
 
-TODO
+#### Locally
 
+Install `scipy`, `matplotlib` and `tqdm` via `conda`/`pip`. Then run `jupyter notebook` and launch `abc_filippi/ABC.ipynb`.
+
+#### Colab
+
+Import `abc_filippi/ABC.ipynb` either from your local copy or the GitHub repository.
 
 <a id="org95fe76a"></a>
 
 ### Speech Processing
 
-TODO
+#### Locally
 
+Install `simplejson` and `pytorch` via `conda`/`pip` and `editdistance` and `soundfile` via pip. Then run `jupyter notebook` and launch `speech/tutorial.ipynb`.
 
-<a id="org7236865"></a>
+#### Colab
 
-### ML in Computational Biology
+Import `speech/tutorial.ipynb` either from your local copy or the GitHub repository.
 
-TODO
+<a id="org964b5ee"></a>
 
+### Submodularity
+The tutorial is in `$TUTORIALS_DIR/submodular/submodular-opt.ipynb` and should work in [Colab](https://colab.research.google.com/) out of the box.
+Alternatively, you can set up [Conda](#Conda-heading) with `$ENV_NAME.yml` set to `mlss_submod.yml`. 
+After activating the Conda environment, ensure jupyter can access the environment by running
+```
+python -m ipykernel install --user --name mlss_submod --display-name "Python (mlss_submod)"
+```
+Then, launch the notebook via `jupyter notebook` and open the tutorial.
+
+TODO: can we add this to the docker image?

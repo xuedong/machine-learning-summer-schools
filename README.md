@@ -9,4 +9,6 @@ Curated materials for different machine learning related summer schools.
 ## 2019
 
 - The first [Machine Learning Summer School 2019](https://mlssafrica.com/) was hosted by [Stellenbosch University](https://www.sun.ac.za/english) and [Praelexis](https://praelexis.com/), and was held from January 7 to January 18, 2019 in Stellenbosch, South Africa. \[[slides](https://github.com/xuedong/machine-learning-summer-schools/tree/master/Machine%20Learning%20Summer%20School%202019%20(Stellenbosch%2C%20South%20Africa)/slides)\] \[[videos](https://www.youtube.com/channel/UC722CmQVgcLtxt_jXr3RyWg)\]
-- [
+-
+-
+- The second [Machine Learning Summer School 2019](https://sites.google.com/view/mlss-2019) was hosted by [Gatsby Computational Neuroscience Unit of University College London](https://www.gatsby.ucl.ac.uk/Members.html) and [Statistical Machine Learning Group of Imperial College of London](https://wp.doc.ic.ac.uk/sml/), and was held from July 15 to July 26, 2019 in London, UK. \[[slides](https://github.com/xuedong/machine-learning-summer-schools/tree/master/Machine%20Learning%20Summer%20School%202019%20(London%2C%20UK)/slides)\] \[[tutorials](https://github.com/xuedong/machine-learning-summer-schools/tree/master/Machine%20Learning%20Summer%20School%202019%20(London%2C%20UK)/tutorials)\] \[[videos](https://www.facebook.com/uclcsml/)\]

@@ -1,6 +1,8 @@
 # machine-learning-summer-schools
 Curated materials for different machine learning related summer schools.
 
+**Disclaimer**: Some of the following repos do not contain exhaustive materials from the corresponding event due to space limit of GitHub, you may refer to the original **link** at the end of each event for those missing files. 
+
 ## 2018
 
 - [Structural Inference Spring School 2018](https://www.mathematik.hu-berlin.de/de/for1735/prior-events/spring-school-2018) was hosted by [Institut für Mathematik of Mathematisch-Naturwissenschaftliche Fakultät at Humboldt-Universität zu Berlin](https://www.mathematik.hu-berlin.de/de), and was held from March 5 to March 8, 2018 in Lübbenau, Germany. \[[slides](https://github.com/xuedong/machine-learning-summer-schools/tree/master/Structural%20Inference%20Spring%20School%202018%20(L%C3%BCbbenau%2C%20Germany)/slides)\]

@@ -1,7 +1,9 @@
 # machine-learning-summer-schools
 Curated materials for different machine learning related summer schools.
 
-**Disclaimer**: Some of the following repos do not contain exhaustive materials from the corresponding event due to space limit of GitHub, you may refer to the original **link** at the end of each event for those missing files. 
+**Disclaimer 1**: Some of the following repos do not contain exhaustive materials from the corresponding event due to space limit of GitHub, you may refer to the original **link** at the end of each event for those missing files. 
+
+**Disclaimer 2**: Also beware that some of the original links may expire as time goes by.
 
 ## 2018
 

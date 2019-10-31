@@ -1,15 +1,20 @@
 # machine-learning-summer-schools
 Curated materials for different machine learning related summer schools.
 
-Notation:
+`Notation`:
 - :link: - the source link
 - :book: - slides
 - :movie_camera: - lecture videos
 - :octocat: - tutorials
 
-**Disclaimer 1**: Some of the following repos do not contain exhaustive materials from the corresponding event due to space limit of GitHub, you may refer to the original :link: at the end of each event where I found those slides or other materials. 
+`Disclaimer 1`: Some of the following repos do not contain exhaustive materials from the corresponding event due to space limit of GitHub, you may refer to the original :link: at the end of each event where I found those slides or other materials. 
 
-**Disclaimer 2**: Also beware that some of the original links may expire as time goes by.
+`Disclaimer 2`: Also beware that some of the original links may expire as time goes by.
+
+`TODO List`:
+- [ ] Transylvanian Machine Learning Summer School 2018
+- [ ] Transylvanian Machine Learning Summer School 2019
+
 
 ## 2018
 

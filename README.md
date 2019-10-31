@@ -15,7 +15,7 @@ Curated materials for different machine learning related summer schools.
 
 - [ ] Transylvanian Machine Learning Summer School 2018
 - [ ] Transylvanian Machine Learning Summer School 2019
-
+- [ ] PRAIRIE Artificial Intelligence Summer School 2018
 
 ## 2018
 

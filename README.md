@@ -4,7 +4,7 @@ Curated materials for different machine learning related summer schools.
 Notation:
 - :link: - the source link
 - :book: - slides
-- :videos: - lecture videos
+- :movie_camera: - lecture videos
 - :octocat: - tutorials
 
 **Disclaimer 1**: Some of the following repos do not contain exhaustive materials from the corresponding event due to space limit of GitHub, you may refer to the original :link: at the end of each event where I found those slides or other materials. 

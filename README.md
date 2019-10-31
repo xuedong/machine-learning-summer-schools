@@ -11,7 +11,7 @@ Curated materials for different machine learning related summer schools.
 
 `Disclaimer 2`: Also beware that some of the original links may expire as time goes by.
 
-`TODO List`:
+`TODO List`
 
 - [ ] Transylvanian Machine Learning Summer School 2018
 - [ ] Transylvanian Machine Learning Summer School 2019

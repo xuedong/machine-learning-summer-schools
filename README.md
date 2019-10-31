@@ -13,8 +13,8 @@ Curated materials for different machine learning related summer schools.
 
 `TODO List`
 
-- [ ] Transylvanian Machine Learning Summer School 2018
-- [ ] Transylvanian Machine Learning Summer School 2019
+- [] Transylvanian Machine Learning Summer School 2018
+- [] Transylvanian Machine Learning Summer School 2019
 
 
 ## 2018

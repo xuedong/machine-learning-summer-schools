@@ -17,6 +17,10 @@ Curated materials for different machine learning related summer schools.
 - [ ] Transylvanian Machine Learning Summer School 2019
 - [ ] PRAIRIE Artificial Intelligence Summer School 2018
 
+## 2020
+
+- The 1st [Machine Learning Summer School 2020](https://mlss.tuebingen.mpg.de/2020/) was hosted by [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), and was held from June 29 to July 10, 2020 online (due to Covid-19, and was previously planned to be held in Tübingen, Germany). [:movie_camera:](https://lake.videoken.com/mlss)
+
 ## 2018
 
 - [Structural Inference Spring School 2018](https://www.mathematik.hu-berlin.de/de/for1735/prior-events/spring-school-2018) was hosted by [Institut für Mathematik of Mathematisch-Naturwissenschaftliche Fakultät at Humboldt-Universität zu Berlin](https://www.mathematik.hu-berlin.de/de), and was held from March 5 to March 8, 2018 in Lübbenau, Germany. [:book:](https://github.com/xuedong/machine-learning-summer-schools/tree/master/Structural%20Inference%20Spring%20School%202018%20(L%C3%BCbbenau%2C%20Germany)/slides) [:link:](https://www.mathematik.hu-berlin.de/de/for1735/prior-events/spring-school-2018/program-1)

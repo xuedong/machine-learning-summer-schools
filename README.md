@@ -20,6 +20,8 @@ Curated materials for different machine learning related summer schools.
 ## 2020
 
 - The 1st [Machine Learning Summer School 2020](https://mlss.tuebingen.mpg.de/2020/) was hosted by [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), and was held from June 29 to July 10, 2020 online (due to Covid-19, and was previously planned to be held in Tübingen, Germany). [:movie_camera:](https://lake.videoken.com/mlss)
+- The 2nd [Machine Learning Summer School 2020](https://mlss.telkomuniversity.ac.id/index.html) was hosted by [Telkom University
+](https://telkomuniversity.ac.id/), and was held from August 3 to August 9, 2020 online (due to Covid-19, and was previously planned to be held in Bandung, West Java, Indonesia). [:movie_camera:](https://www.youtube.com/watch?v=eArVxzdKSNs&list=PLN4AEuFVI0IHeX6gXP1jPXDv6lt1xRYCT&index=25)
 
 ## 2019
 
